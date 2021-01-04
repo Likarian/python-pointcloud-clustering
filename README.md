@@ -10,6 +10,6 @@ To run the 'test_show.py', you also need the cv2 and open3d.
 
 
 ## Example
-![alt text][logo]
+![][png]
 
-[logo]: https://github.com/Likarian/python-pointcloud-clustering/example.png
+[png]: example.png
